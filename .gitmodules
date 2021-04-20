@@ -1,0 +1,24 @@
+[submodule "icsnpp-bacnet"]
+	path = icsnpp-bacnet
+	url = git@github.com:mmguero-dev/icsnpp-bacnet.git
+	branch = master
+[submodule "icsnpp-bsap"]
+	path = icsnpp-bsap
+	url = git@github.com:mmguero-dev/icsnpp-bsap.git
+	branch = master
+[submodule "icsnpp-ethercat"]
+	path = icsnpp-ethercat
+	url = git@github.com:mmguero-dev/icsnpp-ethercat.git
+	branch = master
+[submodule "icsnpp-enip"]
+	path = icsnpp-enip
+	url = git@github.com:mmguero-dev/icsnpp-enip.git
+	branch = master
+[submodule "icsnpp-dnp3"]
+	path = icsnpp-dnp3
+	url = git@github.com:mmguero-dev/icsnpp-dnp3.git
+	branch = master
+[submodule "icsnpp-modbus"]
+	path = icsnpp-modbus
+	url = git@github.com:mmguero-dev/icsnpp-modbus.git
+	branch = master
